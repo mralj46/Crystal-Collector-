@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+    font-size: 40px;   
+}
+
+.result {
+   font-size: 20px;
+}
+
+button {
+    height: 100px;
+    width: 150px;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#green {
+    background-color: green;
+}
